@@ -1,13 +1,8 @@
 ---
-title:  "My First Post"
-categories: sample
-image: feat-img.jpg
+title:  "Gongguan/NTU Nightmarket"
+categories: Taiwan/Taipei/Nightmarkets
+image: ovq3NDI
 ---
 
-Hi there. This will be your first blog post&mdash;I hope you're excited! To get started, give this post a new title by replacing "My First Post" with your post's title. 
+This stand is always close to the university.  A lot of great shaomai, with fillings based on a range of themes, from shrimp/seafood to regular pork.  You can choose from each category of shaomai, up to 10-15 max (I forgot the exact number)
 
-You can change the post's author name in the `_config.yml` file, or add an `author` variable in the front matter block. 
-
-To change the post image, replace the image name with your new image. If you don't want to use an image in this post, delete the image variable in the front matter.
-
-Have fun blogging!
