@@ -1,9 +1,8 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
+title: Static Webpages Portfolio
+email: 2081439477@qq.com
+description: A blog showcasing some of my beginning front-end web development work.
+baseurl: "/jekyll-portfolio"
 twitter_username: 
 avatar: "" # Set footer avatar
 paginate: 3
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Yongren Wang" # Set default author name
+      categories: "Front-End Web Development"
       layout: "post"
       comments: true
   -
