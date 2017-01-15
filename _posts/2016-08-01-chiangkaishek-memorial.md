@@ -2,8 +2,8 @@
 ---
 title:  "Chiang Kai-Shek Memorial"
 categories: Taiwan/Taipei/Tourist Sites/Memorials
-image: ovq3NDI.jpg
+image: JU1kkhH.png
 ---
 
-This stand is always close to the university.  A lot of great shaomai, with fillings based on a range of themes, from shrimp/seafood to regular pork.  You can choose from each category of shaomai, up to 10-15 max (I forgot the exact number)
+I thought I would try a new spin on a common tourist-site photographed thousands of times.  So I just took a close-up of the sun relief at the base of the memorial, right next to the staircase leading up to the statue.  Did a little blending magic in Photoshop and voila!
 
