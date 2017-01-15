@@ -1,8 +1,8 @@
 # Site settings
-title: Static Webpages Portfolio
+title: Taiwan Blog
 email: 2081439477@qq.com
-description: A blog showcasing some of my beginning front-end web development work.
-baseurl: "/jekyll-portfolio"
+description: A blog showing some photos from my stay in Taiwan
+baseurl: "/taiwan-blog"
 twitter_username: 
 avatar: "" # Set footer avatar
 paginate: 3
@@ -19,7 +19,7 @@ defaults:
       type: "posts"
     values:
       author: "Yongren Wang" # Set default author name
-      categories: "Front-End Web Development"
+      categories: "Taiwan"
       layout: "post"
       comments: true
   -
